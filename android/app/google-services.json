@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033476635320",
+    "project_id": "sawari-54527",
+    "storage_bucket": "sawari-54527.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033476635320:android:b2c999134fbd1f2b86d24d",
+        "android_client_info": {
+          "package_name": "com.sawari.sawari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033476635320-qnu4v55lm76ipfjkjge2i780qrc1ejci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcJT2RXqyoGPMTw4o_Cakwogofstx3dLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033476635320-qnu4v55lm76ipfjkjge2i780qrc1ejci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
